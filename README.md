@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhannadbm" alt="muhannadbm" /></a> </p>
 
-- 🔭 I’m currently working on [Codershero](https://github.com/Lambda-School-Labs/coder-heroes-fe)
+- 🔭 I’m currently working on [Omani American Dealership](https://github.com/muhannadbm/React-Cardealership)
 
 - 🌱 I’m currently learning **Ui/Ux Designs**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Codershero](https://github.com/Lambda-School-Labs/coder-heroes-fe)
 
-- 👨‍💻 All of my projects are available at [muhannadbm.com](muhannadbm.com)
+<!-- - 👨‍💻 All of my projects are available at [muhannadbm.com](muhannadbm.com) -->
 
 - 💬 Ask me about **React, Node or JS**
 
